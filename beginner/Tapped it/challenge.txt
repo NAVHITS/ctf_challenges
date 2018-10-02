@@ -1,0 +1,5 @@
+I have managed to tap some confidential data from a website but I am not able to read it. Download the file and see what it has to say.
+
+HINT: The website was not secure.
+
+40 pts
